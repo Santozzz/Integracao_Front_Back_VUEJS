@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "username": "David",
+      "password": "$2b$10$1uxDxIkEi0Guz5HTaTCgm..Rcl3jXJU71Y3lYzAJyucWZ93wYqBde"
+    },
+    {
+      "username": "balalau",
+      "password": "$2b$10$dYyBjB7jtUIwjgO2PAEKN.KxGEepLpOovDYzyjbYDw5acCJ20VrnC"
+    },
+    {
+      "username": "Danilo Trai",
+      "password": "$2b$10$qm5K4dIo/lctnKJVQjHTyO.BmMUrAezCBu02f/RX0oyE0H1p/YVwa"
+    },
+    {
+      "username": "Danilo Trai2",
+      "password": "$2b$10$5XNEWlujzKNNXPWjCsr6H.NdYWr33S4XhWFXdhgoGmG/F1s6M4qmK"
+    },
+    {
+      "username": "lalalau",
+      "password": "$2b$10$gvUxJC3nwzmO0BEjIqheBeh3GKk1wnYGIzpPX0NqTiFw794iCvili"
+    },
+    {
+      "username": "asdsa",
+      "password": "$2b$10$G0TpypERd1NsjL76ly0li.hB4Cy3/0U5yb4CTJtJnieE58YCXwk6."
+    },
+    {
+      "username": "adads",
+      "password": "$2b$10$Amh9Baq6k4G9W/DwBaArUuEdXTDRwKTMveC56WuXzpnlNMzSSLxUi"
+    }
+  ]
+}
